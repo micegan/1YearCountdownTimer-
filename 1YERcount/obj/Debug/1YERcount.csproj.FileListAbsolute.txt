@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\1YERcount\1YERcount\bin\Debug\1YERcount.exe.config
+C:\Users\User\source\repos\1YERcount\1YERcount\bin\Debug\1YERcount.exe
+C:\Users\User\source\repos\1YERcount\1YERcount\bin\Debug\1YERcount.pdb
+C:\Users\User\source\repos\1YERcount\1YERcount\obj\Debug\1YERcount.csprojAssemblyReference.cache
+C:\Users\User\source\repos\1YERcount\1YERcount\obj\Debug\_1YERcount.Form1.resources
+C:\Users\User\source\repos\1YERcount\1YERcount\obj\Debug\_1YERcount.Properties.Resources.resources
+C:\Users\User\source\repos\1YERcount\1YERcount\obj\Debug\1YERcount.csproj.GenerateResource.cache
+C:\Users\User\source\repos\1YERcount\1YERcount\obj\Debug\1YERcount.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\1YERcount\1YERcount\obj\Debug\1YERcount.exe
+C:\Users\User\source\repos\1YERcount\1YERcount\obj\Debug\1YERcount.pdb
+C:\Users\User\source\repos\1YERcount\1YERcount\obj\Debug\_1YERcount.Form2.resources
